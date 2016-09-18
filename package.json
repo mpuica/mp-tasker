@@ -1,0 +1,29 @@
+{
+  "name": "mp-tasker",
+  "version": "1.0.0",
+  "description": "Add a Task for the World",
+  "main": "server.js",
+  "dependencies": {
+    "express"        : "latest",
+    "mongoose"       : "latest",
+    "morgan"         : "latest",
+    "body-parser"    : "latest",
+    "method-override": "latest"
+
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpuica/mp-tasker.git"
+  },
+  "keywords": [
+    "ads",
+    "monitor"
+  ],
+  "author": "Mihail Puica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpuica/mp-tasker"
+  }
+}

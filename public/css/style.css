@@ -1,0 +1,13 @@
+html {
+    overflow-y:scroll;
+}
+body {
+    padding-top:50px;
+}
+.tasks-list {
+    margin-bottom:30px;
+}
+
+.footer{
+    margin-top: 30px;
+}
