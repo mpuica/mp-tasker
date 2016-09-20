@@ -1,6 +1,7 @@
 node_modules
 _ignore
 .idea
+.DS_Store
 npm-debug.log
 config/*.js
 !config/*.dist
