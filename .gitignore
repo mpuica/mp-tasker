@@ -3,5 +3,5 @@ _ignore
 .idea
 .DS_Store
 npm-debug.log
-config/*.js
+!config/*.js
 !config/*.dist
